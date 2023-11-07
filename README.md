@@ -14,7 +14,7 @@ There is a GUI for editing the keymap. It is available at https://kinesiscorpora
 ### Build firmware
 
 1. Push a commit to trigger the build.
-2. Download the artifact.
+2. Download the artifact. 
 
 ## Building the Firmware in a local container
 
